@@ -1,0 +1,30 @@
+.filled{
+    background-color: #a5a5a5;
+    border: none;
+    padding: 15px;
+}
+
+.filled:focus{
+    border-bottom: 2px solid rgb(67, 107, 250);
+    outline: none;    
+}
+
+.standard{
+    border-bottom: 1px solid #a5a5a5;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 15px;
+}
+
+.standard:focus{
+    border-bottom: 2px solid rgb(67, 107, 250);
+    outline: none;
+}
+
+.default{
+    padding: 15px;
+}
+
+
+
